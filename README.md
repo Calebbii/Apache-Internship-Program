@@ -1,5 +1,5 @@
 # Apache-Internship-Program
 
 
-    ## Author
+## Author
 * [Caleb Kiprotich](https://github.com/Calebbii)
