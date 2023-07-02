@@ -6,7 +6,7 @@ This section will guide you through setting up and running this repository on yo
 
 * Clone the repository
     ```
-    git clone 
+    git clone https://github.com/Calebbii/Apache-Internship-Program
     ```
 * Navigate to the project folder
     ```
@@ -16,8 +16,26 @@ This section will guide you through setting up and running this repository on yo
     ```
     cd QuestionThree/py
     ```
+### Environment setup
+*  To create a virtual environment
+    ```
+    python3 -m venv env
 
+    ```
+* To activate the virtual environment
+    For Unix/Linux:
+        ```
+        source env/bin/activate
+        ```
+    For Windows (PowerShell):
+        ```
+        .\env\Scripts\Activate.ps1
 
+        ```
+    For Windows (Command Prompt):
+        ```
+        env\Scripts\activate.bat
+        ```
 
 
 
