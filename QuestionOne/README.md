@@ -82,15 +82,15 @@ This section will guide you through setting up and running this repository on yo
 
 * Clone the repository
     ```
-    git clone 
+    git clone https://github.com/Calebbii/Apache-Internship-Program
     ```
 * Navigate to the project folder
     ```
     cd Apache Internship Program
     ```
-* To interact with the solution for the first Question, navigate to the `Question 1` folder
+* To interact with the solution for the first Question, navigate to the `QuestionOne` folder
     ```
-    cd Question 1
+    cd QuestionOne
     ```
 * Compile the C code using a C compiler such as GCC by running the following command:
     ```

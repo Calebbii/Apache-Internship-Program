@@ -6,7 +6,7 @@ This section will guide you through setting up and running this repository on yo
 
 * Clone the repository
     ```
-    git clone 
+    git clone https://github.com/Calebbii/Apache-Internship-Program
     ```
 * Navigate to the project folder
     ```
@@ -58,6 +58,3 @@ This section will guide you through setting up and running this repository on yo
 #### Disadvantages:
 * Requires additional memory to store the dynamic programming table/array.
 
-
-    ## Author
-* [Caleb Kiprotich](https://github.com/Calebbii)
